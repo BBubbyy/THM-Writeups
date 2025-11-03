@@ -9,7 +9,7 @@ Welcome! This repository is my collection of study notes, machine write-ups, and
 * [Metasploit Framework](./Metasploit/README.md)
 
 ### Vulnerability Analysis
-* [CVE-2024-21413 (MonikerLink)](./CVE-2024-21413/README.md)
+* [CVE-2024-21413 (MonikerLink)](./Metasploit/README.md)
 
 ### CTF & Lab Write-ups
 *Waiting for new content!*
