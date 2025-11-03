@@ -5,7 +5,7 @@ Welcome! This repository is my collection of study notes, machine write-ups, and
 ## 📚 Table of Contents
 
 ### Core Tools
-* [John the Ripper (JtR)](./JtR/README.md)
+* [John the Ripper (JtR)](./John the Ripper (JtR)/README.md)
 * [Metasploit Framework](./Metasploit/README.md)
 
 ### Vulnerability Analysis
