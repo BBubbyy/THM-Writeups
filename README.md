@@ -5,7 +5,7 @@ Welcome! This repository is my collection of study notes, machine write-ups, and
 ## 📚 Table of Contents
 
 ### 🧠 Foundational Concepts
-* [Network Fundamentals](./Networking/README.md)
+* [Network Fundamentals](./Network/README.md)
 
 ### Core Tools
 * [John the Ripper (JtR)](./John%20the%20Ripper%20(JtR)/README.md)
