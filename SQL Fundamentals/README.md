@@ -1,4 +1,4 @@
-# SQL Fundamentals (English Version)
+# SQL Fundamentals (ENG ver)
 
 This is a comprehensive summary of the **SQL (Structured Query Language)** concepts and commands essential for working with relational databases, forming a critical foundation for web application security (Web Hacking).
 
