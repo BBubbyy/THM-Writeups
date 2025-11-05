@@ -1,4 +1,4 @@
-# 🛠️ My Cybersecurity Toolkit
+# 🛠️ Toolkit
 
 This is a summary list of essential tools and wordlists required for my Pentesting/CTF workflow. This file serves as a setup guide when moving to a new machine.
 
