@@ -6,10 +6,14 @@ Welcome! This repository is my collection of study notes, machine write-ups, and
 
 ### 🧠 Foundational Concepts
 * [Network Fundamentals](./Network/README.md)
+* [SQL Fundamentals](./SQL%20Fundamentals/README.md)
 
-### Core Tools
+### 🛠️ Core Tools
 * [John the Ripper (JtR)](./John%20the%20Ripper%20(JtR)/README.md)
 * [Metasploit Framework](./Metasploit/README.md)
+
+### 🌐 Web Hacking
+*soon*
 
 ### Vulnerability Analysis
 * [CVE-2024-21413 (MonikerLink)](./Metasploit/README.md)
